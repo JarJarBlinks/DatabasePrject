@@ -3,10 +3,12 @@
 *.lo
 *.o
 *.obj
+*.asdfasdf
 
 # Precompiled Headers
 *.gch
 *.pch
+*.py
 
 # Compiled Dynamic libraries
 *.so
